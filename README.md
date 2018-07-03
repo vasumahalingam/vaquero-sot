@@ -1,2 +1,0 @@
-# vaquero-sot
-Advance SOT
