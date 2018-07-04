@@ -1,7 +1,6 @@
 config:
   type: git
   url: "https://github.com/vasumahalingam/vaquero-sot-config"
-  token: "2b51dd7f9cc115716aad3861dda8a2406f5d1532"
   ref: master
 ---
 name: sm-node0
