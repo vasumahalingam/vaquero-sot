@@ -90,5 +90,5 @@ metadata:
         baseurl:  http://172.28.123.140/repo/rhel-7-server-rpms--x86_64
     packages: []
 
-workflow: redhat
+workflow: centos
 
